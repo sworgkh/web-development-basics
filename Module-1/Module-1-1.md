@@ -2,7 +2,7 @@
 ## Excercise
 
 ### Create Your own dashboard:
-![init personal dash](/Module-1-images/Ex1.png)
+![init personal dash](./Module-1-images/Ex1.png)
 
 #### You will need these html tags:
 * `<header>` ([Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header))
@@ -18,5 +18,5 @@
 
 ### Take time and try to implement it by yourself. Once you feel done or stuck you can use the solution:
 
-### [Solution](/Module-1-1-solution.html)
+### [Solution](./Module-1-1-solution.html)
 
