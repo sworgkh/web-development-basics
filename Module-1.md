@@ -37,3 +37,15 @@
     ```
     git commit -m "initial commit"
     ```
+9. Create new repository at [Github](https://github.com)
+    ![init github](./Module-1-images/init%20github%20repo.png)
+10. Add your Github repository as origin for project
+    ```
+    git remote add origin <remote repository URL>
+    ```
+    Replace `<remote repository URL>` with your new repository URL
+     ![init github](./Module-1-images/init%20github%20repo%202.png)
+11. Push changes to Github
+    ```
+    git push -u origin
+    ```
